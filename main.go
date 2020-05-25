@@ -2,7 +2,6 @@ package main
 
 import (
 	"fmt"
-	"garbage_diving/tracer"
 	_ "garbage_diving/tracer"
 )
 
@@ -20,5 +19,5 @@ func myFunc() {
 func main() {
 	repeatXTimes(10, myFunc)
 	// Uncomment line below to run with tracer
-	tracer.WithTrace(repeatXTimes, 10, myFunc)
+	// tracer.WithTrace(repeatXTimes, 10, myFunc)
 }
