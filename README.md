@@ -1,6 +1,6 @@
 # Garbage Diving with GO
 
-Code for talk of the same name by [@sleepypioneer](https://twitter.com/sleepypioneer) you will find the slides on [speaker deck](https://speakerdeck.com/sleepypioneer)
+Code for talk of the same name by [@sleepypioneer](https://twitter.com/sleepypioneer) you will find the slides on [speaker deck](https://speakerdeck.com/sleepypioneer/garbage-diving-for-gophers)
 
 What is Garbage collection and why do we need it? How does Garbage collection happen and when? How can we as engineers be more sympathetic to the machines our code runs on? If you've ever found yourself asking any of these questions or are curious to know more, this is the talk for you.
 
